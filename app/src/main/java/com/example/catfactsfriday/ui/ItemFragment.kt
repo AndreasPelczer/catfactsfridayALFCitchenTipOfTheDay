@@ -35,7 +35,7 @@ class ItemFragment : Fragment() {
         val imageView: ImageView = view.findViewById(R.id.imageView)
 
         // Set the image resource to the ImageView
-        imageView.setImageResource(R.drawable._700348_middle)
+        imageView.setImageResource(R.drawable.ede9aab6043917b249a4aec7abc0ea5e)
 
 
 
