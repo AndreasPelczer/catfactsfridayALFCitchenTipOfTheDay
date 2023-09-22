@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">catfactsfriday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Andere Ressourcen -->
+    <string name="image_description">Beschreibung des Bildes</string>
+
+</resources>

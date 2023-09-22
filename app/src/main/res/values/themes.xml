@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Catfactsfriday" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#3F6A87</item>
+    </style>
+
+    <style name="Theme.Catfactsfriday" parent="Base.Theme.Catfactsfriday" />
+</resources>
